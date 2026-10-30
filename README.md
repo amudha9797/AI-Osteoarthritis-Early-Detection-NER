@@ -1,5 +1,7 @@
 # AI-Osteoarthritis-Early-Detection-NER
 
+> 🌐 **Live Public Website**: [https://amudha9797.github.io/AI-Osteoarthritis-Early-Detection-NER/](https://amudha9797.github.io/AI-Osteoarthritis-Early-Detection-NER/)
+
 AI-Assisted Early Detection System for Osteoarthritis (OA) Risk Markers in North Eastern Region (NER).
 
 ## Project Overview
