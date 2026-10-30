@@ -1,6 +1,9 @@
 # AI-Osteoarthritis-Early-Detection-NER
 
-> 🌐 **Live Public Website**: [https://amudha9797.github.io/AI-Osteoarthritis-Early-Detection-NER/](https://amudha9797.github.io/AI-Osteoarthritis-Early-Detection-NER/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=amudha9797/AI-Osteoarthritis-Early-Detection-NER&branch=main&mainModule=app.py)
+
+> 🌐 **Live Web Application (GitHub Pages)**: [https://amudha9797.github.io/AI-Osteoarthritis-Early-Detection-NER/](https://amudha9797.github.io/AI-Osteoarthritis-Early-Detection-NER/)  
+> 🚀 **Deploy to Streamlit Cloud (1-Click)**: [Deploy on Streamlit Community Cloud](https://share.streamlit.io/deploy?repository=amudha9797/AI-Osteoarthritis-Early-Detection-NER&branch=main&mainModule=app.py)
 
 AI-Assisted Early Detection System for Osteoarthritis (OA) Risk Markers in North Eastern Region (NER).
 
